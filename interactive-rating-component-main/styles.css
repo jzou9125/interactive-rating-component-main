@@ -11,3 +11,7 @@
 
   --ff: font-family: 'Overpass', sans-serif;
 }
+
+.thanks {
+  display: none;
+}
